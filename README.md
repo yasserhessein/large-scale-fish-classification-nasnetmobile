@@ -6,7 +6,7 @@ NASNet-Mobile is a convolutional neural network that is trained on more than a m
 
 
 
-<img src="https://i.stack.imgur.com/h9TXi.jpg" width="3000px">
+<img src="https://i.stack.imgur.com/h9TXi.jpg" width="300px">
 
 
 
