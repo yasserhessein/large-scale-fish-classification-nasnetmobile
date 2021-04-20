@@ -1,4 +1,4 @@
-large scale fish classification nasnetmobile
+## large scale fish classification nasnetmobile
 
 
 ### NASNet-Mobile 
@@ -22,4 +22,12 @@ For example, if you want to access the ground truth images of the shrimp in the 
 
 [Link](https://www.kaggle.com/crowww/a-large-scale-fish-dataset/code)
 
+
+If you want help plz contact me
+
+Yasserhesseinshakir@yahoo.com
+
+https://www.linkedin.com/in/yasir-hussein-314a65201/
+
+https://www.kaggle.com/yasserhessein
 
