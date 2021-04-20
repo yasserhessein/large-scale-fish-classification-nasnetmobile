@@ -1,13 +1,14 @@
 ## large scale fish classification nasnetmobile
 
 
+
 ### NASNet-Mobile 
 NASNet-Mobile is a convolutional neural network that is trained on more than a million images from the ImageNet database . The network can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals. ... The network has an image input size of 224-by-224
 
 
 
 
-<img src="https://i.stack.imgur.com/h9TXi.jpg" width="1000px">
+<img src="https://i.stack.imgur.com/h9TXi.jpg" width="700px">
 
 
 
