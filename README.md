@@ -10,6 +10,7 @@ NASNet-Mobile is a convolutional neural network that is trained on more than a m
 
 
 
+
 ### Description of the dataset
 
 The dataset contains 9 different seafood types. For each class, there are 1000 augmented images and their pair-wise augmented ground truths.
